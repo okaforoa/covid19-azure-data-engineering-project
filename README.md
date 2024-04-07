@@ -1,6 +1,7 @@
 
 # Azure Data Factory Course: My Learning Journey
-
+![Solution Architecture](https://github.com/okaforoa/covid19-azure-data-engineering-project/blob/main/images/Screenshot%202024-04-07%20121124.png)
+![CICD](https://github.com/okaforoa/covid19-azure-data-engineering-project/blob/main/images/Screenshot%202024-04-07%20121306.png)
 ## Introduction
 
 Hello, I'm a Data Engineer who recently completed an extensive course on Azure Data Factory, led by Ramesh Retnasamy. This course was a deep dive into the world of data integration and transformation using Azure's robust services, culminating in a practical project on Covid-19 prediction and reporting. Here, I share my experiences, learnings, and outcomes from this transformative learning journey.
